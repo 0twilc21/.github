@@ -1,21 +1,30 @@
-# com411
+<div align="center">
 
-This is all my work for my Computer Science class dated 2025-26 at [Solent University](https://www.solent.ac.uk/)
+# 0twilc21
 
-User Breakdown:
+### Computer Science Coursework 2025-26
+**[Solent University](https://www.solent.ac.uk/)**
 
-[0twilc21-butterfly](https://www.github.com/0twilc21-butterfly) - Uni Account
+---
 
-[CloveTwilight3](https://www.github.com/clovetwilght3) - Clove's Account
+## 👥 Team Members
 
-[TheMidnightCyan](https://www.github.com/themidnightcyan) - Athena's Account
+| User | GitHub Profile |
+|------|----------------|
+| **Uni Account** | [@0twilc21-butterfly](https://www.github.com/0twilc21-butterfly) |
+| **Clove** | [@CloveTwilight3](https://www.github.com/clovetwilght3) |
+| **Athena** | [@TheMidnightCyan](https://www.github.com/themidnightcyan) |
+| **Zyren** | [@butterfly-network-win](https://github.com/butterfly-network-win) |
+| **Jessa** | [@butterfly-mods](https://github.com/butterfly-mods) |
+| **Reyna** | [@yugiohduels103](https://github.com/yugiohduels103) |
+| **Workflow Actions Bot** | [@EstrogenHRT](https://github.com/EstrogenHRT) |
 
-[butterfly-network-win](https://github.com/butterfly-network-win)  -Zyren's Account
+---
 
-[butterfly-mods](https://github.com/butterfly-mods) - Jessa's Account
+<img src="../0twilc21.png" alt="Project Logo" width="300"/>
 
-[yugiohduels103](https://github.com/yugiohduels103) - Reyna's Account
+---
 
-[EstrogenHRT](https://github.com/EstrogenHRT) - GitHub Actions Bot
+*This repository contains all coursework and projects*
 
-![image](../0twilc21.png)
+</div>
