@@ -16,7 +16,8 @@
 | **Athena** | [@TheMidnightCyan](https://www.github.com/themidnightcyan) |
 | **Zyren** | [@butterfly-network-win](https://github.com/butterfly-network-win) |
 | **Jessa** | [@butterfly-mods](https://github.com/butterfly-mods) |
-| **Reyna** | [@yugiohduels103](https://github.com/yugiohduels103) |
+| **Ren** | [@yugiohduels103](https://github.com/yugiohduels103) |
+| **Rose** | [@stingerthornrose](https://github.com/stingerthornrose) |
 | **Workflow Actions Bot** | [@EstrogenHRT](https://github.com/EstrogenHRT) |
 
 ---
